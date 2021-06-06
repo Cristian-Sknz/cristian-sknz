@@ -14,5 +14,5 @@ I have been a programmer for 3 years and I have a lot of experience in the Java 
 <summary> <b> Contacts</b> <i>(Click here)</i> </summary>
 <br>
 
- [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>](https://www.linkedin.com/in/Cristian-SknZ-Ferreira/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80">](mailto:cristian.datingaa@gmail.com) [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="98">](https://discord.com/users/247096601242238991/)
+ [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" width="100"/>](https://www.linkedin.com/in/Cristian-SknZ-Ferreira/) [<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" width="80">](mailto:cristian.datingaa@gmail.com) [<img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" width="98">](https://discordhub.com/profile/247096601242238991)
  </details>
