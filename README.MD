@@ -7,7 +7,8 @@ I have been a programmer for 3 years and I have a lot of experience in the Java 
 -  :v: I have experience with **backend** in Java with **Spring Framework** and **Servlets**. 
 - :computer: Desktop applications with Java
 
-![Cristian-SknZ](https://github-readme-stats.vercel.app/api?username=Cristian-SknZ&show_icons=true&layout=compact) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-SknZ&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[<img src="https://github-readme-stats.vercel.app/api?username=Cristian-SknZ&show_icons=true&layout=compact" width="400"/>](https://github.com/Cristian-Sknz)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-SknZ&layout=compact" width="393"/>](https://github.com/Cristian-Sknz)
 
 <details>
 <summary> <b> Contacts</b> <i>(Click here)</i> </summary>
