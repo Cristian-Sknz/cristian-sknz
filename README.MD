@@ -8,7 +8,7 @@ I have been a programmer for 3 years and I have a lot of experience in the Java 
 - :computer: Desktop applications with Java
 
 [<img src="https://github-readme-stats.vercel.app/api?username=Cristian-SknZ&show_icons=true&layout=compact" width="400"/>](https://github.com/Cristian-Sknz)
-[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-SknZ&layout=compact" width="393"/>](https://github.com/Cristian-Sknz)
+[<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cristian-SknZ&layout=compact" width="334"/>](https://github.com/Cristian-Sknz)
 
 <details>
 <summary> <b> Contacts</b> <i>(Click here)</i> </summary>
