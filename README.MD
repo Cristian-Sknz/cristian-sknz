@@ -1,3 +1,5 @@
+<img align="right" width="150px" alt="Yuuu" src="https://i.imgur.com/QSmD0qS.gif">
+
 ## :coffee: Hi, I'm Cristian!
 
 I've been a programmer for 4 years and I have mastered the development of applications in the Java programming language. A little summary of my tastes is that I like coffee, anime, online games and cats :heart:. 
