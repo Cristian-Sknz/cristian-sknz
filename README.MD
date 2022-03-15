@@ -30,6 +30,10 @@ Gosto bastante de café, animes, jogos online e gatos :heart:
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white">
     </div>
+    <div>
+        <img src="https://img.shields.io/badge/Nextjs-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white">
+        <img src="https://img.shields.io/badge/graphql-%23ed007e.svg?style=for-the-badge&logo=graphql&logoColor=white">
+    </div>
 </div>
 
 <details align="center">
