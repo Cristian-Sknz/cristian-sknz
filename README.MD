@@ -1,4 +1,4 @@
-<img align="right" width="150px" alt="Anime character coffe" src="https://c.tenor.com/N0dxXyNjYgAAAAAd/anime-boy-anime.gif">
+<img align="left" width="150px" alt="Anime character coffe" src="https://user-images.githubusercontent.com/61399406/171486398-16a75c7d-2f73-49d4-88fc-9fb47b59b46f.png">
 
 ## :coffee: Olá, Eu sou o Cristian!
 
