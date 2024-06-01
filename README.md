@@ -3,9 +3,13 @@
 
 <img align="left" width="150px" alt="Kalk Samen Kuri no Hana" src="https://is1-ssl.mzstatic.com/image/thumb/Music115/v4/ab/82/dd/ab82dda9-9724-0562-8068-f8d20dac80fa/00602567661313.rgb.jpg/1200x1200bf-60.jpg">
 
- Entusiasta em tecnlogia desde criança, estudante de Ciências da Computação e desenvolvedor de software que procura aprender e se aprimorar todos os dias! Sou apaixonado pelo desenvolvimento de software em geral, gosto de softwares bem estruturados, organizados e sempre prezando pela qualidade. 
+Um estudante de ciencia da computação, entusiasta de tecnologia e apaixonado por engenharia de software. Desde os meus 16 anos, tenho me dedicado à programação e continuo a me aperfeiçoar, acompanhando as tendências da área de TI.
 
-Tenho conhecimentos em Web tanto no Frontend quanto no Backend, e me mantenho focado em aprender cada vez mais quando o assunto é software.
+Atualmente, atuo como desenvolvedor de software na [@Trindtech](https://www.linkedin.com/company/trindtech), onde trabalho no desenvolvimento de aplicativos móveis utilizando C# e Xamarin. Minhas habilidades abrangem tanto o desenvolvimento front-end quanto o back-end, e sou fluente em linguagens como Java, Kotlin e Typescript. Além disso, sou familiarizado com bibliotecas e ferramentas como o Spring Framework, React e React Native.
+
+Embora seja um desenvolvedor Full Stack, concentro-me principalmente no desenvolvimento de backend e aplicativos móveis. Minha jornada é marcada por desafios e vitórias, e estou sempre em busca de aprendizado e melhoria, mantendo uma atitude positiva diante das oportunidades que surgem.
+
+Participei do programa de capacitação de jovens para o mercado de tecnologia chamado #TeuFuturo, realizado em 2021 pela IMED em parceria com o +PraTi, o que me direcionou para o mercado de trabalho.
 
 Sou apaixonado pelo Japão 🇯🇵, a sociedade, língua e cultura japonesa me motivam no sonho de um dia conhecer e trabalhar com tecnologia no Japão.
 
@@ -21,12 +25,14 @@ Sou apaixonado pelo Japão 🇯🇵, a sociedade, língua e cultura japonesa me 
         <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white">
         <img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white">
         <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white">
+        <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white">
     </div>
     <div>
         <img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white">
         <img src="https://img.shields.io/badge/react-%23007ACC.svg?style=for-the-badge&logo=react&logoColor=white">
         <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white">
-
+        <img src="https://img.shields.io/badge/Xamarin-25AEFE?style=for-the-badge&logo=xamarin&logoColor=white">
+     </div>
 </div>
 
 ---
